@@ -1,5 +1,3 @@
- <!DOCTYPE html>
-<html>
 <head>
 <link rel="stylesheet" href="resume.css">
 </head>
@@ -12,4 +10,4 @@
     <h2><center>Computer Science Student</center></h2>
     <img src="0001-0400.gif"; alt="tesseract"; style="height:100%;width:100%"/>
 </body>
-</html> 
+
