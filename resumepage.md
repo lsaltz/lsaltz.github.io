@@ -5,8 +5,8 @@
 </head>
 <body style="background-color:#000;">
 	<div class="topnav">
-		<a href="index.html">Home</a>
-		<a href="resumepage.html">View Resume</a>
+		<a href="index.md">Home</a>
+		<a href="resumepage.md">View Resume</a>
 	</div>
 	<embed src="Marshall_Lyndon-Rae_Saltz_Resume.pdf" type="application/pdf" width="100%" height="600px"/>
 	<img src="0001-0400.gif"; alt="tesseract"/>
