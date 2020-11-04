@@ -1,4 +1,3 @@
-<html>
 <head>
 <link rel="stylesheet" href="resumepagestyle.css">
 </head>
@@ -10,4 +9,3 @@
 	<embed src="Marshall_Lyndon-Rae_Saltz_Resume.pdf" type="application/pdf" width="100%" height="600px"/>
 	<img src="0001-0400.gif"; alt="tesseract"/>
 </body>
-</html>
