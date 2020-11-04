@@ -1,4 +1,4 @@
 # Resume
-My Official Resume Website
-Can be found at: https://lsaltz.github.io/Resume/
-Currently in progress.
+<h1>My Official Resume Website</h1>
+<h2>Can be found at: https://lsaltz.github.io/Resume/</h2>
+<p>Currently in progress.<p>
