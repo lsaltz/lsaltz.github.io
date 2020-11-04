@@ -5,8 +5,8 @@
 </head>
 <body style="background-color:#000;">
 	<div class="topnav">
-		<a class="active" href="index.html">Home</a>
-		<a href="resumepage.html">View Resume</a>
+		<a class="active" href="index.md">Home</a>
+		<a href="resumepage.md">View Resume</a>
 	</div> 
 	<h1><center>Marshall Lyndon-Rae Saltz</center></h1>
     <h2><center>Computer Science Student</center></h2>
