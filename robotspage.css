@@ -29,7 +29,6 @@ h2{
 }
            
 img {  
-	background-image: url("0001-0400.gif");
     -webkit-filter: blur(4px);  
 	filter: blur(4px);  
 	height:100%;
