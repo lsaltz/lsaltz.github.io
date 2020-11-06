@@ -1,0 +1,40 @@
+h1{
+	color: whitesmoke;
+	font-family: Arial;
+}
+h2{
+	color: #718180;
+	font-family: Arial;
+	font-size: 12px;
+}
+
+.topnav {
+	background-color: #004d4d;
+	overflow: hidden;
+}
+
+
+.topnav a {
+	float: left;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+
+.topnav a:hover {
+	background-color: #99ffff;
+	color: whitesmoke;
+}
+        
+img {  
+	background-image: url("0001-0400.gif");
+    -webkit-filter: blur(4px);  
+	filter: blur(4px);  
+	height:100%;
+	width:100%;
+	background-position: center;
+	background-repeat: no-repeat;
+} 
