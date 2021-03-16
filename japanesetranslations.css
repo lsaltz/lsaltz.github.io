@@ -26,7 +26,7 @@ img {
 	background-position: center;
 	background-repeat: no-repeat;
 	z-index: -1;
-	position: absolute
+	position: fixed
 } 
 .dropdown {
   float: left;
