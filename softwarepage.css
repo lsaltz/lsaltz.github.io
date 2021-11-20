@@ -28,14 +28,6 @@ h2{
 	color: whitesmoke;
 }
            
-img {  
-    -webkit-filter: blur(4px);  
-	filter: blur(4px);  
-	height:100%;
-	width:100%;
-	background-position: center;
-	background-repeat: no-repeat;
-} 
 .dropdown {
   float: left;
   overflow: hidden;
