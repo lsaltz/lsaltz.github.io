@@ -94,12 +94,12 @@ body{
   text-shadow: 2px 2px 4px #000000;
 }
 .button1{
-background-image: url('robertbutton.jpg'); 
+background-image: url('media/robertbutton.jpg'); 
 background-size: 200px;  
 }
 
 .button2{
-background-image: url('roombaimage.JPG'); 
+background-image: url('media/roombaimage.JPG'); 
 background-size: 300px;  
 }
 
