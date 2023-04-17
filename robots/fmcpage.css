@@ -94,19 +94,13 @@ body{
   text-shadow: 2px 2px 4px #000000;
 }
 .button1{
-background-image: url('media/side_r.png'); 
-background-size: 150px;  
+background-image: url('media/robertbutton.jpg'); 
+background-size: 200px;  
 }
 
 .button2{
 background-image: url('media/roombaimage.JPG'); 
 background-size: 300px;  
-}
-
-.button3{
-background-image: url('media/fmc_cad.png'); 
-background-size: 300px;  
-background-position: center;
 }
 
 .button:hover{
