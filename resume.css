@@ -3,7 +3,12 @@ h1{
 	font-family: Arial;
 }
 h2{
-	color: #718180;
+	color: #cfdada;
+	font-family: Arial;
+	font-size: 14px;
+}
+h3{
+	color: #8a9493;
 	font-family: Arial;
 	font-size: 12px;
 }

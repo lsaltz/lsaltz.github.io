@@ -6,7 +6,7 @@
 <body>
 	<div class="topnav">
 		<a href="../index.html">Home</a>
-		<a href="../resumepage.html">View Resume</a>
+		<a href="../resumepage.html">Resume</a>
 		<div class="dropdown">
 			<button class="dropbtn" >Projects
 				<i class="fa fa-caret-down"></i>
@@ -18,38 +18,35 @@
 		</div>
 	</div>
 	<h1><center>Follow-Me Car</center></h1>
-	<div style="color:white;font-family:arial;text-align:center;">
-	<p>I decided to build a robot car that follows me around like a puppy.</p>
-	<p>I first used Fusion360 to CAD it (render below), and am currently printing it.</p>
+	<div style="color:white;font-family:arial;text-align:left;">
+	<p>I decided to build a robot car that follows me around like a puppy. I first used Fusion360 to CAD it.
+		I worked with OpenCV's HOG to detect me and move the motors based on my position in the frame. 
+		Ultimately, using OpenCV, the robot was able to detect and track me, and the motors moved accordingly.</p>
+	<p><a href="https://github.com/lsaltz/follow-me-car" style="color: #30DED4">See the code here</a></p>
+	
 	</div>
-	<div style="text-align:center"> 
+	</div>
+	<div style="text-align:left"> 
 	<img src="../media/fmc_cad.png" alt="fmc1" width="320" height="240"> 
 	</div>
-	<div style="color:white;font-family:arial;text-align:center;">
-	<p>I am using ball bearings as the front wheels, and two steppers for the back wheels.</p>
-	<div style="text-align:center"> 
+	<div style="text-align:left"> 
 	<img src="../media/IMG_2464.png" alt="fmc1" width="25%" height="25%">
 	</div>
 	<p>Its brain is a Jetson Nano, and it uses a Waveshare motor hat.</p>
-	<div style="text-align:center">
+	<div style="text-align:left">
 		<video width="25%" controls>
 			<source src="../media/IMG_2456.mp4" type="video/mp4"/>
 		</video>
 	</div>
-	<div style="text-align:center">
+	<div style="text-align:left">
 		<video width="25%" controls>
 			<source src="../media/IMG_2458.mp4" type="video/mp4"/>
 		</video>
 	</div>
-	<div style="text-align:center">
+	<div style="text-align:left">
 		<video width="25%" controls>
 			<source src="../media/IMG_2461.mp4" type="video/mp4"/>
 		</video>
-	</div>
-	<p>I worked with OpenCV's HOG to detect me and move the motors based on my position in the frame.</p>
-	<p><a href="https://github.com/lsaltz/follow-me-car">See the code here</a></p>
-	<p>Ultimately, using OpenCV, the robot was able to detect and track me, and the motors moved accordingly.</p>
-	<p>If I were to take this project further, I would implement a parallel motor control system, as the motors for this project were controlled sequentially.</p>
 	</div>
 	
 </body>
